@@ -37,4 +37,8 @@ temp/
 .agents
 .claude
 .windsurf
-/src/generated/prisma
+# Prisma generated client
+**/src/generated/prisma/
+
+# Backend process management
+backend/scripts/.pids/
